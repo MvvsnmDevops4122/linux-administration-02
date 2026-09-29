@@ -1,22 +1,17 @@
 # 🐧 Linux Administration
 
-Practical Linux administration notes, commands, troubleshooting, and real-world DevOps scenarios.
+Practical Linux administration notes, commands, and DevOps fundamentals.
 
 ## 📚 Topics Covered
 
-- 🐧 Linux Basics & File System
-- 👤 User & Group Management
-- 🔐 File & Directory Permissions
-- 🔑 SSH & Remote Access
+- 🐧 Linux Administration Fundamentals
+- ⌨️ Linux Administration Commands
 - 📝 Vim Editor
+- 👤 User Management & Permissions
+- 📦 Package Management
 - ⚙️ Service Management
 - 🔄 Process Management
-- 📦 Package Management
-- 💾 Disk & Storage Management
 - 🌐 Network Management
-- 📋 Log Management
-- 🔧 Troubleshooting
-- 🐚 Shell Scripting
 
 ## 🛠️ Important Commands
 
