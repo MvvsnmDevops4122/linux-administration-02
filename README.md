@@ -17,17 +17,16 @@ Practical Linux administration notes, commands, and DevOps fundamentals.
 
 | Category | Commands |
 |---|---|
-| Files & Directories | `ls`, `cd`, `pwd`, `cp`, `mv`, `rm` |
-| Users | `useradd`, `usermod`, `userdel`, `passwd` |
-| Groups | `groupadd`, `groupmod`, `groupdel` |
+| Files & Directories | `ls`, `cd`, `pwd`, `mkdir`, `touch`, `cp`, `mv`, `rm` |
+| Users | `useradd`, `usermod`, `userdel`, `passwd`, `id`, `whoami` |
+| Groups | `groupadd`, `groupmod`, `groupdel`, `groups` |
 | Permissions | `chmod`, `chown`, `chgrp` |
-| Processes | `ps`, `top`, `kill`, `pkill` |
-| Services | `systemctl`, `journalctl` |
-| Networking | `ip`, `ss`, `ping`, `curl` |
-| Packages | `dnf`, `yum`, `rpm` |
-| Disk | `df`, `du`, `lsblk`, `mount` |
-| Logs | `journalctl`, `tail`, `less`, `grep` |
 | SSH | `ssh`, `ssh-keygen`, `scp` |
+| Vim | `vim`, `vi` |
+| Packages | `dnf`, `yum`, `rpm` |
+| Services | `systemctl`, `journalctl` |
+| Processes | `ps`, `top`, `kill`, `pkill` |
+| Networking | `ip`, `ss`, `ping`, `curl`, `netstat` |
 
 ## 📖 Linux Administration Notes
 
